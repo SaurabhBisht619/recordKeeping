@@ -1,0 +1,30 @@
+.body{
+    display: flex;
+    justify-content: center;
+    margin: 6vh 0vh;
+}
+
+.btns{
+    background-color: gray;
+    cursor: pointer;
+}
+
+
+.field{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    margin-bottom: 1vh;
+}
+
+.field_val{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw;
+    background-color: antiquewhite;
+    padding: 10px 40px;
+    align-items: center;
+    margin-bottom: 1vh;
+
+}
